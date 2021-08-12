@@ -28,7 +28,7 @@ start = time.time()
 
 MAX_IT = 1000      	# maximum number of iterations
 MEIO = MAX_IT//2 	
-SIZE = 256			# random field dimensions (512 x 512 particles)
+SIZE = 512			# random field dimensions (512 x 512 particles)
 METADE = MEIO + 50  
 BURN_IN = 5 		# Initial samples (discarded)
 
